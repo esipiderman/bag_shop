@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable-v24/ic_cat_backpack.xml" value="0.1585" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable-v24/ic_email.xml" value="0.1585" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable-v24/ic_icon_app.xml" value="0.1585" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable-v24/ic_invisible.xml" value="0.1585" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1285" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable-v24/ic_password.xml" value="0.1585" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable-v24/ic_person.xml" value="0.1585" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable-v24/ic_visible.xml" value="0.1585" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1265" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_cat_bucket.xml" value="0.1285" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_cat_sling.xml" value="0.1265" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_cat_tote.xml" value="0.1715" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_cat_wallet.xml" value="0.1265" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_details_comment.xml" value="0.123" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_details_material.xml" value="0.1285" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_details_sold.xml" value="0.1285" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1585" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_minus.xml" value="0.1285" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.1285" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1285" />
+        <entry key="..\:/kotlin/BagShop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.123" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
